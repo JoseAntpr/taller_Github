@@ -1,4 +1,4 @@
-# Forks y Pull Request.
+#Forks y Pull Request.
 
 Vamos a hacer un fork de este mismo repositorio y añadiremos nuestra imagen y una cita inventada o no por nosotros. 
 Una vez añadida esta cita en el fork solicitaremos un pull request al repositorio original.
